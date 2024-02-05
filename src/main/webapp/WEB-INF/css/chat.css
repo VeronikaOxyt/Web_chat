@@ -111,6 +111,7 @@ button.send:hover {
     font-family: helvetica;
     background-color: #8262A8;
     padding: 10px 10px 10px 10px;
+    margin-top: 5px;
     border-radius: 20px;
     display: flex;
     flex-direction: column;
